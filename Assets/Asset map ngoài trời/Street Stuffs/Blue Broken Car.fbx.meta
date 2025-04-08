@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 829cb419796d7b648bdd10bb03cdb929
+guid: fb312455a88ca7e49927a5497083d5dd
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: trunk
-    second: {fileID: 2100000, guid: 3e80eb6a49d48a046bb9e05879bdad0a, type: 2}
+      name: Car
+    second: {fileID: 2100000, guid: 2f9afa0829efaf34d85fb4b39f6183cf, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -38,7 +38,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 2
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -93,7 +93,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 2
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

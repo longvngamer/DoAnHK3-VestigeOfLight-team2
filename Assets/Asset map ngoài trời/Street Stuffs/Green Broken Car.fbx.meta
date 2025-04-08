@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d66954c4917416247a39b092bbdcfd4e
+guid: 41deb29e59b7907479d8fd6f2a33cdb2
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: gan heo
-    second: {fileID: 2100000, guid: d76c1d53dce7dee418ee2224d86e0160, type: 2}
+      name: Car
+    second: {fileID: 2100000, guid: d8a32bda0d16d634caf6de2f657f2901, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -38,7 +38,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1.5
+    globalScale: 2
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -93,7 +93,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.015
+    globalScale: 2
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

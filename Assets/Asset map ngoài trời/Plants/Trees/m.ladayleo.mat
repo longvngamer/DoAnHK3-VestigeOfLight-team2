@@ -123,7 +123,7 @@ Material:
     - _HideSides: 0
     - _InvertGradient: 0
     - _Metallic: 0
-    - _MicroWindMultiplier: 1
+    - _MicroWindMultiplier: 0.001
     - _NoiseScale: 0.5
     - _NormalPower: 0.4456522
     - _OcclusionStrength: 1
