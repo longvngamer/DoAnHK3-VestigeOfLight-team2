@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: co hoa
-    second: {fileID: 2100000, guid: faec9a0fd95965b4c9876423e0d9e7ba, type: 2}
+    second: {fileID: 2100000, guid: 4236f5f2fef7a214186821b0f90e42d5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
