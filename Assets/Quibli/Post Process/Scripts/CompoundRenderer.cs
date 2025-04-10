@@ -150,7 +150,7 @@ public abstract class CompoundRenderer : IDisposable {
 /// Use this attribute to mark classes that can be used as a custom post-processing renderer
 /// </summary>
 [AttributeUsage(AttributeTargets.Class, Inherited = false, AllowMultiple = false)]
-public sealed class CompoundRendererFeatureAttribute : Attribute {
+public sealed class CompoundRendererFeatureAttribute : System.Attribute {
     // Name of the effect in the custom post-processing render feature editor
     readonly string name;
 
