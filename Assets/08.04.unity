@@ -18,7 +18,11 @@ RenderSettings:
   m_FogColor: {r: 0.55345905, g: 0.55345905, b: 0.52039075, a: 1}
   m_FogMode: 3
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_FogDensity: 0.0005
+=======
+  m_FogDensity: 0.0003
+>>>>>>> Stashed changes
 =======
   m_FogDensity: 0.0003
 >>>>>>> Stashed changes
@@ -2170,7 +2174,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ee29f4307e7a7e1498902d3bb0bcd9f6, type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       value: 22.6
+=======
+      value: 21.999994
+>>>>>>> Stashed changes
 =======
       value: 21.999994
 >>>>>>> Stashed changes
@@ -3328,10 +3336,13 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0.7071068, w: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 92.133575, y: -0.98, z: 412.49988}
   m_LocalScale: {x: 45, y: 45, z: 45}
   m_ConstrainProportionsScale: 1
 =======
+=======
+>>>>>>> Stashed changes
   m_LocalPosition: {x: 92.133575, y: -0.63838196, z: 412.49988}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 0
@@ -3940,10 +3951,13 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0.7071068, w: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 132.99698, y: -0.98, z: 331.3005}
   m_LocalScale: {x: 45, y: 45, z: 45}
   m_ConstrainProportionsScale: 1
 =======
+=======
+>>>>>>> Stashed changes
   m_LocalPosition: {x: 132.99698, y: -0.63838196, z: 331.3005}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 0
@@ -10935,10 +10949,13 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0.7071068, w: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 132.73355, y: -0.98, z: 337.29993}
   m_LocalScale: {x: 45, y: 45, z: 45}
   m_ConstrainProportionsScale: 1
 =======
+=======
+>>>>>>> Stashed changes
   m_LocalPosition: {x: 132.73355, y: -0.63838196, z: 337.29993}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 0
@@ -15500,7 +15517,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 361656ae49501f9458d42973a8e468bc, type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       value: 4.64
+=======
+      value: 5.000003
+>>>>>>> Stashed changes
 =======
       value: 5.000003
 >>>>>>> Stashed changes
@@ -16966,7 +16987,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: b5d3a7e9936896047b0cdef7805424ed, type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       value: 1.15
+=======
+      value: 1.0000007
+>>>>>>> Stashed changes
 =======
       value: 1.0000007
 >>>>>>> Stashed changes
@@ -18619,10 +18644,13 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0.7071068, w: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 92.397, y: -0.98, z: 406.50046}
   m_LocalScale: {x: 45, y: 45, z: 45}
   m_ConstrainProportionsScale: 1
 =======
+=======
+>>>>>>> Stashed changes
   m_LocalPosition: {x: 92.397, y: -0.63838196, z: 406.50046}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 0
@@ -22145,7 +22173,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: b5d3a7e9936896047b0cdef7805424ed, type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       value: 1.21
+=======
+      value: 1.0000031
+>>>>>>> Stashed changes
 =======
       value: 1.0000031
 >>>>>>> Stashed changes
@@ -23238,7 +23270,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: b5d3a7e9936896047b0cdef7805424ed, type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       value: 1.11
+=======
+      value: 1.0000062
+>>>>>>> Stashed changes
 =======
       value: 1.0000062
 >>>>>>> Stashed changes
@@ -23317,10 +23353,13 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0.7071068, w: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 92.15701, y: -0.98, z: 402.00015}
   m_LocalScale: {x: 45, y: 45, z: 45}
   m_ConstrainProportionsScale: 1
 =======
+=======
+>>>>>>> Stashed changes
   m_LocalPosition: {x: 92.15701, y: -0.51838684, z: 402.00015}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 0
@@ -25456,7 +25495,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 490cc499ef73c1f438f405f51654bca0, type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       value: 1.66
+=======
+      value: 1.9999957
+>>>>>>> Stashed changes
 =======
       value: 1.9999957
 >>>>>>> Stashed changes
