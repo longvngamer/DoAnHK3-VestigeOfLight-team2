@@ -41,21 +41,21 @@ LODGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1042798586132177339}
   serializedVersion: 2
-  m_LocalReferencePoint: {x: 0, y: 0, z: 0}
-  m_Size: 1
+  m_LocalReferencePoint: {x: -0.0017039776, y: 0.007767069, z: 0.00069424044}
+  m_Size: 0.023543974
   m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
   m_LODs:
-  - screenRelativeHeight: 0.6
+  - screenRelativeHeight: 0.4434445
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 3557780566676134221}
-  - screenRelativeHeight: 0.3
+  - screenRelativeHeight: 0.38890794
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 3557780566676134221}
-  - screenRelativeHeight: 0.1
+  - screenRelativeHeight: 0.3189674
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 3557780566676134221}
@@ -119,6 +119,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: f6ceb834af5b7c849a8228cc7800df81, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f6ceb834af5b7c849a8228cc7800df81, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f6ceb834af5b7c849a8228cc7800df81, type: 3}
       propertyPath: m_Name
