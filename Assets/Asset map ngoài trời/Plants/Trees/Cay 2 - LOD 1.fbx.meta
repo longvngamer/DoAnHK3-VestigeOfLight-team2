@@ -12,12 +12,22 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: cay1.001
+    second: {fileID: 2100000, guid: 22dbb81f67f9e6b45a6f5279205ef183, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: cay1.002
     second: {fileID: 2100000, guid: 22dbb81f67f9e6b45a6f5279205ef183, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: la
+    second: {fileID: 2100000, guid: 72fa7d88d9d728f4facbb23585342bdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: la.001
     second: {fileID: 2100000, guid: 72fa7d88d9d728f4facbb23585342bdb, type: 2}
   - first:
       type: UnityEngine:Material

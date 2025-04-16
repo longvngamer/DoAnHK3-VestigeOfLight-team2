@@ -43,15 +43,27 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _DetailMetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _DetailNormalMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Diffuse:
-        m_Texture: {fileID: 2800000, guid: 26936a7ae7e22a84fb01d4c45e3f2e9f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9d5ecb94455d6aa4ea7f67a9c2e106dd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LayerAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LayerNormalMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -60,6 +72,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicROcclusionGSmoothnessA:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -97,12 +113,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _2ndNormalPower: 1
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaCutoff: 0.5
     - _AlphaToMask: 0
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
+    - _BlendNormals: 1
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
@@ -122,16 +140,26 @@ Material:
     - _HidePower: 2.5
     - _HideSides: 0
     - _InvertGradient: 0
+    - _LayerContrast: 0
+    - _LayerMetallicPower: 0.5
+    - _LayerOcclusionPower: 1
+    - _LayerPosition: 0
+    - _LayerPower: 0.5
+    - _LayerSmoothnessPower: 0.5
+    - _LayerThreshold: 1
     - _Metallic: 0
+    - _MetallicPower: 0.5
     - _MicroWindMultiplier: 0.001
     - _NoiseScale: 0.5
     - _NormalPower: 0.4456522
+    - _OcclusionPower: 1
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
+    - _SmoothnessPower: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -143,6 +171,7 @@ Material:
     - _TransScattering: 2
     - _TransShadow: 0.5
     - _TransStrength: 1
+    - _UseVertexColor: 1
     - _VertexOcclusionPower: 0
     - _WindMultiplier: 1.16
     - _WindTrunkContrast: 10
@@ -150,12 +179,13 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - _2ndColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _ColorVariation: {r: 1, g: 0.8584826, b: 0, a: 0}
+    - _ColorVariation: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GradientColor: {r: 0.48416638, g: 0.7798742, b: 0, a: 0}
-    - _MainColor: {r: 1, g: 1, b: 1, a: 0}
+    - _GradientColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColor: {r: 0.09605765, g: 1, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
