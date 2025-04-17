@@ -183,7 +183,7 @@ Material:
     - _ColorGradient: {r: 0.85023, g: 0.85034, b: 0.8504499, a: 0.85056}
     - _DetailMapColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FlatRimColor: {r: 1.4415092, g: 0.23662503, b: 0.23662503, a: 0.85056}
+    - _FlatRimColor: {r: 1.9245281, g: 1.9245281, b: 1.9245281, a: 0.85056}
     - _FlatSpecularColor: {r: 0.5964772, g: 0.7584905, b: 0.2905161, a: 0.85056}
     - _LightAttenuation: {r: 0, g: 1, b: 0, a: 0}
     - _LightmapDirection: {r: 0, g: 1, b: 0, a: 0}
