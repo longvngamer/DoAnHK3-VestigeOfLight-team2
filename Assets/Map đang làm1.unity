@@ -3891,6 +3891,9 @@ MeshFilter:
   m_Mesh: {fileID: -3057383719919117499, guid: 868bcf5a92674bc49829db6036c55d29, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 540cb98 (chup scene)
 =======
 >>>>>>> parent of 540cb98 (chup scene)
 --- !u!1 &255104598
@@ -4031,6 +4034,7 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Map đang làm1.unity
 --- !u!114 &255104603
 MonoBehaviour:
@@ -4072,6 +4076,8 @@ MonoBehaviour:
 >>>>>>> 0b418d5f157fa2d8749b63ffacd3d16afc3d3af4:Assets/Map đang làm.unity
 =======
 >>>>>>> parent of 0b418d5 (Revert 3)
+=======
+>>>>>>> parent of 540cb98 (chup scene)
 =======
 >>>>>>> parent of 540cb98 (chup scene)
 --- !u!1001 &255886112
@@ -27715,6 +27721,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 2.8689132
 =======
       value: 4.0808997
@@ -27725,6 +27732,9 @@ PrefabInstance:
 =======
       value: 4.0808997
 >>>>>>> parent of e61c362 (size edit)
+=======
+      value: 2.8689134
+>>>>>>> parent of 540cb98 (chup scene)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e8e2cc8ce8d57c04b98610d59748f27a, type: 3}
       propertyPath: m_LocalScale.y
@@ -27735,6 +27745,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 2.8689132
 =======
       value: 4.0808997
@@ -27745,6 +27756,9 @@ PrefabInstance:
 =======
       value: 4.0808997
 >>>>>>> parent of e61c362 (size edit)
+=======
+      value: 2.8689134
+>>>>>>> parent of 540cb98 (chup scene)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e8e2cc8ce8d57c04b98610d59748f27a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -35405,10 +35419,13 @@ SceneRoots:
   - {fileID: 2107763310}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 776250915}
   - {fileID: 28071758}
   - {fileID: 164750313}
 =======
+=======
+>>>>>>> parent of 540cb98 (chup scene)
 =======
 >>>>>>> parent of 540cb98 (chup scene)
   - {fileID: 8188431430144692769}
@@ -35439,6 +35456,7 @@ SceneRoots:
   - {fileID: 213761619}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of e61c362 (size edit)
   - {fileID: 1316296216}
@@ -35446,6 +35464,11 @@ SceneRoots:
   - {fileID: 873064703}
   - {fileID: 1786096620}
 >>>>>>> parent of e61c362 (size edit)
+=======
+  - {fileID: 1211003193}
+  - {fileID: 873064703}
+  - {fileID: 1786096620}
+>>>>>>> parent of 540cb98 (chup scene)
 =======
   - {fileID: 1211003193}
   - {fileID: 873064703}
@@ -35461,6 +35484,9 @@ SceneRoots:
   - {fileID: 509556232}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 540cb98 (chup scene)
 =======
 >>>>>>> parent of 540cb98 (chup scene)
   - {fileID: 821434321}
@@ -35469,6 +35495,7 @@ SceneRoots:
   - {fileID: 1405359997}
   - {fileID: 255104602}
   - {fileID: 281923911}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD:Assets/Map đang làm1.unity
   - {fileID: 1452396271}
@@ -35483,5 +35510,7 @@ SceneRoots:
 >>>>>>> 0b418d5f157fa2d8749b63ffacd3d16afc3d3af4:Assets/Map đang làm.unity
 =======
 >>>>>>> parent of 0b418d5 (Revert 3)
+=======
+>>>>>>> parent of 540cb98 (chup scene)
 =======
 >>>>>>> parent of 540cb98 (chup scene)
