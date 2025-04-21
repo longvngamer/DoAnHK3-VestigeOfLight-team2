@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Stroke
+    second: {fileID: 2100000, guid: d9e4cdfbd609b3a41a49a2158537d839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: bag
     second: {fileID: 2100000, guid: 77c2f6eb88f10824ab4bc32a1b7ba5dd, type: 2}
   - first:
