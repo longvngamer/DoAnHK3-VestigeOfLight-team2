@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: 431dfed4fc14a9a45b289f3d00e13434
+guid: aff1582e83f331043938d217f4f19894
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clothes new.001
+    second: {fileID: 2100000, guid: 4f642489d3872cb4f9b02285abf08f8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mask.001
+    second: {fileID: 2100000, guid: 8f7a9996e45145246955249cc1a9d57b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: weapon.002
+    second: {fileID: 2100000, guid: debd4563a97f9814eb44533c2ec2d02c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -35,7 +50,7 @@ ModelImporter:
       takeName: Armature.002|Attack1
       internalID: -3462633386130607719
       firstFrame: 0
-      lastFrame: 52
+      lastFrame: 54
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -64,7 +79,7 @@ ModelImporter:
       takeName: Armature.002|Hit Animation.001
       internalID: -5716917141486165476
       firstFrame: 0
-      lastFrame: 15
+      lastFrame: 29
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -94,6 +109,35 @@ ModelImporter:
       internalID: 8724066374881831417
       firstFrame: 0
       lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.002|run-TRIM-18
+      takeName: Armature.002|run-TRIM-18
+      internalID: -8961550763110406563
+      firstFrame: 0
+      lastFrame: 17
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
