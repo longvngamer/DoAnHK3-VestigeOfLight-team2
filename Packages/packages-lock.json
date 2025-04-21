@@ -96,39 +96,9 @@
         "com.unity.modules.uielements": "1.0.0"
       }
     },
-    "com.unity.muse.chat": {
-      "version": "1.1.1-pre.4",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.muse.common": "2.0.10",
-        "com.unity.serialization": "3.1.1",
-        "com.unity.nuget.newtonsoft-json": "3.2.1",
-        "com.unity.modules.unitywebrequest": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.muse.common": {
-      "version": "2.0.10",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.modules.uielements": "1.0.0",
-        "com.unity.modules.imageconversion": "1.0.0",
-        "com.unity.modules.unitywebrequesttexture": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.4",
       "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.nuget.newtonsoft-json": {
-      "version": "3.2.1",
-      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -195,6 +165,7 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 =======
@@ -224,6 +195,8 @@
 >>>>>>> parent of 2958378 (add character)
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> parent of 540cb98 (chup scene)
     "com.unity.shadergraph": {
       "version": "17.0.3",
       "depth": 1,
