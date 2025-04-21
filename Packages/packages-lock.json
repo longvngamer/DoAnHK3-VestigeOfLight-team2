@@ -205,6 +205,7 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "com.unity.serialization": {
       "version": "3.1.2",
       "depth": 1,
@@ -214,11 +215,16 @@
         "com.unity.burst": "1.7.2"
       },
 =======
+=======
+>>>>>>> Stashed changes
     "com.unity.settings-manager": {
       "version": "2.0.1",
       "depth": 2,
       "source": "registry",
       "dependencies": {},
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "url": "https://packages.unity.com"
     },
