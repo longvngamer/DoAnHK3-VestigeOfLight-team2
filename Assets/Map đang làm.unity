@@ -27714,6 +27714,7 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 2.8689132
 =======
       value: 4.0808997
@@ -27721,6 +27722,9 @@ PrefabInstance:
 =======
       value: 2.8689134
 >>>>>>> parent of 540cb98 (chup scene)
+=======
+      value: 4.0808997
+>>>>>>> parent of e61c362 (size edit)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e8e2cc8ce8d57c04b98610d59748f27a, type: 3}
       propertyPath: m_LocalScale.y
@@ -27730,6 +27734,7 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 2.8689132
 =======
       value: 4.0808997
@@ -27737,6 +27742,9 @@ PrefabInstance:
 =======
       value: 2.8689134
 >>>>>>> parent of 540cb98 (chup scene)
+=======
+      value: 4.0808997
+>>>>>>> parent of e61c362 (size edit)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e8e2cc8ce8d57c04b98610d59748f27a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -35430,6 +35438,9 @@ SceneRoots:
   - {fileID: 360499401}
   - {fileID: 213761619}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of e61c362 (size edit)
   - {fileID: 1316296216}
   - {fileID: 1211003193}
   - {fileID: 873064703}
