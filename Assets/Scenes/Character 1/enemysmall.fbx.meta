@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Stroke
+    second: {fileID: 2100000, guid: c51a9e5aa05096f458d0c3db4325dc49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: clothes new.001
     second: {fileID: 2100000, guid: 4f642489d3872cb4f9b02285abf08f8e, type: 2}
   - first:
@@ -164,7 +169,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 1.7
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -219,7 +224,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 1.7
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
